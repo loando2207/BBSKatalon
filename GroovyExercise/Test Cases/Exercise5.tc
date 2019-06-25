@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Get Sort Order Status for Date String(yyyy/MM/DD)</description>
+   <name>Exercise5</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccfc79bd-b98c-4d6c-a70f-b8b80f18249b</testCaseGuid>
+</TestCaseEntity>

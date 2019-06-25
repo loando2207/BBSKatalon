@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description> The quadratic equation: ax^2 + bx + c = 0</description>
+   <name>Exercise2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d236a325-652e-46ed-a949-8ffb8ec4d992</testCaseGuid>
+</TestCaseEntity>
