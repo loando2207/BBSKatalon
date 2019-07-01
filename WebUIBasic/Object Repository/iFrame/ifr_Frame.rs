@@ -6,13 +6,17 @@
    <elementGuidId>4b67145f-2f0b-435f-87e1-e09f5e1ffc32</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
          <key>BASIC</key>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>#mce_0_ifr</value>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;mce_0_ifr&quot;]</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>CSS</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
 </WebElementEntity>

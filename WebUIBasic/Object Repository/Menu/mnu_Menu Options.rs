@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>lbl_Title</name>
+   <name>mnu_Menu Options</name>
    <tag></tag>
-   <elementGuidId>99a909b3-a420-4054-bce3-0dcc07ec948a</elementGuidId>
+   <elementGuidId>2ad842e3-417f-4663-a346-d445c8fde6db</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>h3</value>
+         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//h3[text()='${Title}']</value>
+         <value>//a[text()='${MenuOption}']/following-sibling::ul/parent::* | //a[text()='${MenuOption}']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,20 +21,27 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>h3</value>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/jqueryui</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Checkboxes</value>
+      <value>Back to JQuery UI</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;content&quot;)/div[@class=&quot;example&quot;]/h3[1]</value>
+      <value>id(&quot;ui-id-8&quot;)/a[1]</value>
    </webElementProperties>
 </WebElementEntity>

@@ -19,4 +19,9 @@
       <initValue>10</initValue>
       <name>LongTime</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://the-internet.herokuapp.com/'</initValue>
+      <name>_URL</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
